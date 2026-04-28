@@ -1,0 +1,541 @@
+﻿task_index,task_id,subset,sample_index,description,video_a,video_b
+0,T0000,spatial_temporal,0,"punching # 0.0 # 2.75 # left arm # right arm
+straight-forward-flexion # 2.75 # 5.5 # head # left arm # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0000_A_spatial_temporal_0000.mp4,mp4/T0000_B_spatial_temporal_0000.mp4
+1,T0001,spatial_temporal,0,"punching # 0.0 # 2.75 # left arm # right arm
+straight-forward-flexion # 2.75 # 5.5 # head # left arm # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0001_A_spatial_temporal_0000.mp4,mp4/T0001_B_spatial_temporal_0000.mp4
+2,T0002,spatial_temporal,0,"punching # 0.0 # 2.75 # left arm # right arm
+straight-forward-flexion # 2.75 # 5.5 # head # left arm # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0002_A_spatial_temporal_0000.mp4,mp4/T0002_B_spatial_temporal_0000.mp4
+3,T0003,spatial_temporal,1,"raising-hand-and-jumping # 0.0 # 2.64 # head # left arm # legs # right arm # spine
+pinching-back # 2.64 # 5.39 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0003_A_spatial_temporal_0001.mp4,mp4/T0003_B_spatial_temporal_0001.mp4
+4,T0004,spatial_temporal,1,"raising-hand-and-jumping # 0.0 # 2.64 # head # left arm # legs # right arm # spine
+pinching-back # 2.64 # 5.39 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0004_A_spatial_temporal_0001.mp4,mp4/T0004_B_spatial_temporal_0001.mp4
+5,T0005,spatial_temporal,1,"raising-hand-and-jumping # 0.0 # 2.64 # head # left arm # legs # right arm # spine
+pinching-back # 2.64 # 5.39 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0005_A_spatial_temporal_0001.mp4,mp4/T0005_B_spatial_temporal_0001.mp4
+6,T0006,spatial_temporal,2,"standing-toe-touches # 0.0 # 2.65 # head # left arm # legs # right arm # spine
+marking-time-and-knee-lifting # 2.65 # 5.4 # legs
+left-kicking # 0.13 # 2.63 # legs",mp4/T0006_A_spatial_temporal_0002.mp4,mp4/T0006_B_spatial_temporal_0002.mp4
+7,T0007,spatial_temporal,2,"standing-toe-touches # 0.0 # 2.65 # head # left arm # legs # right arm # spine
+marking-time-and-knee-lifting # 2.65 # 5.4 # legs
+left-kicking # 0.13 # 2.63 # legs",mp4/T0007_A_spatial_temporal_0002.mp4,mp4/T0007_B_spatial_temporal_0002.mp4
+8,T0008,spatial_temporal,2,"standing-toe-touches # 0.0 # 2.65 # head # left arm # legs # right arm # spine
+marking-time-and-knee-lifting # 2.65 # 5.4 # legs
+left-kicking # 0.13 # 2.63 # legs",mp4/T0008_A_spatial_temporal_0002.mp4,mp4/T0008_B_spatial_temporal_0002.mp4
+9,T0009,spatial_temporal,3,"single-dumbbell-raising # 0.0 # 2.73 # left arm # right arm
+standing-gastrocnemius-calf # 2.73 # 5.03 # head # left arm # legs # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0009_A_spatial_temporal_0003.mp4,mp4/T0009_B_spatial_temporal_0003.mp4
+10,T0010,spatial_temporal,3,"single-dumbbell-raising # 0.0 # 2.73 # left arm # right arm
+standing-gastrocnemius-calf # 2.73 # 5.03 # head # left arm # legs # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0010_A_spatial_temporal_0003.mp4,mp4/T0010_B_spatial_temporal_0003.mp4
+11,T0011,spatial_temporal,3,"single-dumbbell-raising # 0.0 # 2.73 # left arm # right arm
+standing-gastrocnemius-calf # 2.73 # 5.03 # head # left arm # legs # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0011_A_spatial_temporal_0003.mp4,mp4/T0011_B_spatial_temporal_0003.mp4
+12,T0012,spatial_temporal,4,"single-leg-lateral-hopping # 0.0 # 2.75 # legs # spine
+squatting # 2.75 # 5.5 # legs # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0012_A_spatial_temporal_0004.mp4,mp4/T0012_B_spatial_temporal_0004.mp4
+13,T0013,spatial_temporal,4,"single-leg-lateral-hopping # 0.0 # 2.75 # legs # spine
+squatting # 2.75 # 5.5 # legs # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0013_A_spatial_temporal_0004.mp4,mp4/T0013_B_spatial_temporal_0004.mp4
+14,T0014,spatial_temporal,4,"single-leg-lateral-hopping # 0.0 # 2.75 # legs # spine
+squatting # 2.75 # 5.5 # legs # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0014_A_spatial_temporal_0004.mp4,mp4/T0014_B_spatial_temporal_0004.mp4
+15,T0015,spatial_temporal,5,"elbow-circling # 0.0 # 2.75 # left arm # right arm
+left-kicking # 2.75 # 5.5 # legs
+left-kicking # 0.13 # 2.63 # legs",mp4/T0015_A_spatial_temporal_0005.mp4,mp4/T0015_B_spatial_temporal_0005.mp4
+16,T0016,spatial_temporal,5,"elbow-circling # 0.0 # 2.75 # left arm # right arm
+left-kicking # 2.75 # 5.5 # legs
+left-kicking # 0.13 # 2.63 # legs",mp4/T0016_A_spatial_temporal_0005.mp4,mp4/T0016_B_spatial_temporal_0005.mp4
+17,T0017,spatial_temporal,5,"elbow-circling # 0.0 # 2.75 # left arm # right arm
+left-kicking # 2.75 # 5.5 # legs
+left-kicking # 0.13 # 2.63 # legs",mp4/T0017_A_spatial_temporal_0005.mp4,mp4/T0017_B_spatial_temporal_0005.mp4
+18,T0018,spatial_temporal,6,"upper-back-stretching # 0.0 # 2.35 # left arm # right arm
+overhead-stretching # 2.35 # 5.1 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0018_A_spatial_temporal_0006.mp4,mp4/T0018_B_spatial_temporal_0006.mp4
+19,T0019,spatial_temporal,6,"upper-back-stretching # 0.0 # 2.35 # left arm # right arm
+overhead-stretching # 2.35 # 5.1 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0019_A_spatial_temporal_0006.mp4,mp4/T0019_B_spatial_temporal_0006.mp4
+20,T0020,spatial_temporal,6,"upper-back-stretching # 0.0 # 2.35 # left arm # right arm
+overhead-stretching # 2.35 # 5.1 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0020_A_spatial_temporal_0006.mp4,mp4/T0020_B_spatial_temporal_0006.mp4
+21,T0021,spatial_temporal,7,"left-stretching # 0.0 # 2.73 # head # left arm # right arm # spine
+pinching-back # 2.73 # 5.48 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0021_A_spatial_temporal_0007.mp4,mp4/T0021_B_spatial_temporal_0007.mp4
+22,T0022,spatial_temporal,7,"left-stretching # 0.0 # 2.73 # head # left arm # right arm # spine
+pinching-back # 2.73 # 5.48 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0022_A_spatial_temporal_0007.mp4,mp4/T0022_B_spatial_temporal_0007.mp4
+23,T0023,spatial_temporal,7,"left-stretching # 0.0 # 2.73 # head # left arm # right arm # spine
+pinching-back # 2.73 # 5.48 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0023_A_spatial_temporal_0007.mp4,mp4/T0023_B_spatial_temporal_0007.mp4
+24,T0024,spatial_temporal,8,"forward-lunging # 0.0 # 2.75 # legs # spine
+marking-time-and-knee-lifting # 2.75 # 5.41 # legs
+left-kicking # 0.13 # 2.63 # legs",mp4/T0024_A_spatial_temporal_0008.mp4,mp4/T0024_B_spatial_temporal_0008.mp4
+25,T0025,spatial_temporal,8,"forward-lunging # 0.0 # 2.75 # legs # spine
+marking-time-and-knee-lifting # 2.75 # 5.41 # legs
+left-kicking # 0.13 # 2.63 # legs",mp4/T0025_A_spatial_temporal_0008.mp4,mp4/T0025_B_spatial_temporal_0008.mp4
+26,T0026,spatial_temporal,8,"forward-lunging # 0.0 # 2.75 # legs # spine
+marking-time-and-knee-lifting # 2.75 # 5.41 # legs
+left-kicking # 0.13 # 2.63 # legs",mp4/T0026_A_spatial_temporal_0008.mp4,mp4/T0026_B_spatial_temporal_0008.mp4
+27,T0027,spatial_temporal,9,"standing-rotation # 0.0 # 2.68 # head # left arm # right arm # spine
+straight-forward-flexion # 2.68 # 5.43 # head # left arm # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0027_A_spatial_temporal_0009.mp4,mp4/T0027_B_spatial_temporal_0009.mp4
+28,T0028,spatial_temporal,9,"standing-rotation # 0.0 # 2.68 # head # left arm # right arm # spine
+straight-forward-flexion # 2.68 # 5.43 # head # left arm # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0028_A_spatial_temporal_0009.mp4,mp4/T0028_B_spatial_temporal_0009.mp4
+29,T0029,spatial_temporal,9,"standing-rotation # 0.0 # 2.68 # head # left arm # right arm # spine
+straight-forward-flexion # 2.68 # 5.43 # head # left arm # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0029_A_spatial_temporal_0009.mp4,mp4/T0029_B_spatial_temporal_0009.mp4
+30,T0030,spatial_temporal,10,"rope-skipping # 0.0 # 2.75 # head # left arm # legs # right arm # spine
+single-dumbbell-raising # 2.75 # 5.5 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0030_A_spatial_temporal_0010.mp4,mp4/T0030_B_spatial_temporal_0010.mp4
+31,T0031,spatial_temporal,10,"rope-skipping # 0.0 # 2.75 # head # left arm # legs # right arm # spine
+single-dumbbell-raising # 2.75 # 5.5 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0031_A_spatial_temporal_0010.mp4,mp4/T0031_B_spatial_temporal_0010.mp4
+32,T0032,spatial_temporal,10,"rope-skipping # 0.0 # 2.75 # head # left arm # legs # right arm # spine
+single-dumbbell-raising # 2.75 # 5.5 # left arm # right arm
+left-kicking # 0.13 # 2.63 # legs",mp4/T0032_A_spatial_temporal_0010.mp4,mp4/T0032_B_spatial_temporal_0010.mp4
+33,T0033,spatial_temporal,11,"pulling-chest-expanders # 0.0 # 2.5 # left arm # right arm
+forward-lunging # 2.5 # 5.25 # legs # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0033_A_spatial_temporal_0011.mp4,mp4/T0033_B_spatial_temporal_0011.mp4
+34,T0034,spatial_temporal,11,"pulling-chest-expanders # 0.0 # 2.5 # left arm # right arm
+forward-lunging # 2.5 # 5.25 # legs # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0034_A_spatial_temporal_0011.mp4,mp4/T0034_B_spatial_temporal_0011.mp4
+35,T0035,spatial_temporal,11,"pulling-chest-expanders # 0.0 # 2.5 # left arm # right arm
+forward-lunging # 2.5 # 5.25 # legs # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0035_A_spatial_temporal_0011.mp4,mp4/T0035_B_spatial_temporal_0011.mp4
+36,T0036,spatial_temporal,12,"elbow-circling # 0.0 # 2.6 # left arm # right arm
+rotation-clapping # 2.6 # 5.35 # head # left arm # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0036_A_spatial_temporal_0012.mp4,mp4/T0036_B_spatial_temporal_0012.mp4
+37,T0037,spatial_temporal,12,"elbow-circling # 0.0 # 2.6 # left arm # right arm
+rotation-clapping # 2.6 # 5.35 # head # left arm # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0037_A_spatial_temporal_0012.mp4,mp4/T0037_B_spatial_temporal_0012.mp4
+38,T0038,spatial_temporal,12,"elbow-circling # 0.0 # 2.6 # left arm # right arm
+rotation-clapping # 2.6 # 5.35 # head # left arm # right arm # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0038_A_spatial_temporal_0012.mp4,mp4/T0038_B_spatial_temporal_0012.mp4
+39,T0039,spatial_temporal,13,"high-knees-running # 0.0 # 2.75 # legs # spine
+squatting # 2.75 # 5.41 # legs # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0039_A_spatial_temporal_0013.mp4,mp4/T0039_B_spatial_temporal_0013.mp4
+40,T0040,spatial_temporal,13,"high-knees-running # 0.0 # 2.75 # legs # spine
+squatting # 2.75 # 5.41 # legs # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0040_A_spatial_temporal_0013.mp4,mp4/T0040_B_spatial_temporal_0013.mp4
+41,T0041,spatial_temporal,13,"high-knees-running # 0.0 # 2.75 # legs # spine
+squatting # 2.75 # 5.41 # legs # spine
+left-kicking # 0.13 # 2.63 # legs",mp4/T0041_A_spatial_temporal_0013.mp4,mp4/T0041_B_spatial_temporal_0013.mp4
+42,T0042,spatial_temporal,14,"pinching-back # 0.0 # 2.4 # left arm # right arm
+alternate-knee-lifting # 2.4 # 5.15 # legs
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0042_A_spatial_temporal_0014.mp4,mp4/T0042_B_spatial_temporal_0014.mp4
+43,T0043,spatial_temporal,14,"pinching-back # 0.0 # 2.4 # left arm # right arm
+alternate-knee-lifting # 2.4 # 5.15 # legs
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0043_A_spatial_temporal_0014.mp4,mp4/T0043_B_spatial_temporal_0014.mp4
+44,T0044,spatial_temporal,14,"pinching-back # 0.0 # 2.4 # left arm # right arm
+alternate-knee-lifting # 2.4 # 5.15 # legs
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0044_A_spatial_temporal_0014.mp4,mp4/T0044_B_spatial_temporal_0014.mp4
+45,T0045,spatial_temporal,15,"left-stretching # 0.0 # 2.73 # head # left arm # right arm # spine
+pinching-back # 2.73 # 5.48 # left arm # right arm
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0045_A_spatial_temporal_0015.mp4,mp4/T0045_B_spatial_temporal_0015.mp4
+46,T0046,spatial_temporal,15,"left-stretching # 0.0 # 2.73 # head # left arm # right arm # spine
+pinching-back # 2.73 # 5.48 # left arm # right arm
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0046_A_spatial_temporal_0015.mp4,mp4/T0046_B_spatial_temporal_0015.mp4
+47,T0047,spatial_temporal,15,"left-stretching # 0.0 # 2.73 # head # left arm # right arm # spine
+pinching-back # 2.73 # 5.48 # left arm # right arm
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0047_A_spatial_temporal_0015.mp4,mp4/T0047_B_spatial_temporal_0015.mp4
+48,T0048,spatial_temporal,16,"left-stretching # 0.0 # 2.74 # head # left arm # right arm # spine
+spinal-stretching # 2.74 # 5.49 # head # left arm # right arm # spine
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0048_A_spatial_temporal_0016.mp4,mp4/T0048_B_spatial_temporal_0016.mp4
+49,T0049,spatial_temporal,16,"left-stretching # 0.0 # 2.74 # head # left arm # right arm # spine
+spinal-stretching # 2.74 # 5.49 # head # left arm # right arm # spine
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0049_A_spatial_temporal_0016.mp4,mp4/T0049_B_spatial_temporal_0016.mp4
+50,T0050,spatial_temporal,16,"left-stretching # 0.0 # 2.74 # head # left arm # right arm # spine
+spinal-stretching # 2.74 # 5.49 # head # left arm # right arm # spine
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0050_A_spatial_temporal_0016.mp4,mp4/T0050_B_spatial_temporal_0016.mp4
+51,T0051,spatial_temporal,17,"pinching-back # 0.0 # 2.75 # left arm # right arm
+deltoid-muscle-stretching # 2.75 # 5.2 # left arm # right arm
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0051_A_spatial_temporal_0017.mp4,mp4/T0051_B_spatial_temporal_0017.mp4
+52,T0052,spatial_temporal,17,"pinching-back # 0.0 # 2.75 # left arm # right arm
+deltoid-muscle-stretching # 2.75 # 5.2 # left arm # right arm
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0052_A_spatial_temporal_0017.mp4,mp4/T0052_B_spatial_temporal_0017.mp4
+53,T0053,spatial_temporal,17,"pinching-back # 0.0 # 2.75 # left arm # right arm
+deltoid-muscle-stretching # 2.75 # 5.2 # left arm # right arm
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0053_A_spatial_temporal_0017.mp4,mp4/T0053_B_spatial_temporal_0017.mp4
+54,T0054,spatial_temporal,18,"pulling-chest-expanders # 0.0 # 2.5 # left arm # right arm
+forward-lunging # 2.5 # 5.25 # legs # spine
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0054_A_spatial_temporal_0018.mp4,mp4/T0054_B_spatial_temporal_0018.mp4
+55,T0055,spatial_temporal,18,"pulling-chest-expanders # 0.0 # 2.5 # left arm # right arm
+forward-lunging # 2.5 # 5.25 # legs # spine
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0055_A_spatial_temporal_0018.mp4,mp4/T0055_B_spatial_temporal_0018.mp4
+56,T0056,spatial_temporal,18,"pulling-chest-expanders # 0.0 # 2.5 # left arm # right arm
+forward-lunging # 2.5 # 5.25 # legs # spine
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0056_A_spatial_temporal_0018.mp4,mp4/T0056_B_spatial_temporal_0018.mp4
+57,T0057,spatial_temporal,19,"rope-skipping # 0.0 # 2.75 # head # left arm # legs # right arm # spine
+wrist-circling # 2.75 # 5.5 # left arm # right arm
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0057_A_spatial_temporal_0019.mp4,mp4/T0057_B_spatial_temporal_0019.mp4
+58,T0058,spatial_temporal,19,"rope-skipping # 0.0 # 2.75 # head # left arm # legs # right arm # spine
+wrist-circling # 2.75 # 5.5 # left arm # right arm
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0058_A_spatial_temporal_0019.mp4,mp4/T0058_B_spatial_temporal_0019.mp4
+59,T0059,spatial_temporal,19,"rope-skipping # 0.0 # 2.75 # head # left arm # legs # right arm # spine
+wrist-circling # 2.75 # 5.5 # left arm # right arm
+punching # 0.01 # 2.53# left arm # right arm",mp4/T0059_A_spatial_temporal_0019.mp4,mp4/T0059_B_spatial_temporal_0019.mp4
+60,T0060,temporal,0,"bent-over-twist # 0.0 # 2.5 # head # left arm # right arm # spine
+left-stretching # 2.5 # 5.0 # head # left arm # right arm # spine
+punching-and-knee-lifting # 5.0 # 7.5 # left arm # legs # right arm
+left-lunging # 7.5 # 10.0 # legs # spine
+jumping-jack # 10.0 # 12.5 # head # left arm # legs # right arm # spine
+forward-lunging # 12.5 # 15.0 # legs # spine",mp4/T0060_A_temporal_0000.mp4,mp4/T0060_B_temporal_0000.mp4
+61,T0061,temporal,0,"bent-over-twist # 0.0 # 2.5 # head # left arm # right arm # spine
+left-stretching # 2.5 # 5.0 # head # left arm # right arm # spine
+punching-and-knee-lifting # 5.0 # 7.5 # left arm # legs # right arm
+left-lunging # 7.5 # 10.0 # legs # spine
+jumping-jack # 10.0 # 12.5 # head # left arm # legs # right arm # spine
+forward-lunging # 12.5 # 15.0 # legs # spine",mp4/T0061_A_temporal_0000.mp4,mp4/T0061_B_temporal_0000.mp4
+62,T0062,temporal,0,"bent-over-twist # 0.0 # 2.5 # head # left arm # right arm # spine
+left-stretching # 2.5 # 5.0 # head # left arm # right arm # spine
+punching-and-knee-lifting # 5.0 # 7.5 # left arm # legs # right arm
+left-lunging # 7.5 # 10.0 # legs # spine
+jumping-jack # 10.0 # 12.5 # head # left arm # legs # right arm # spine
+forward-lunging # 12.5 # 15.0 # legs # spine",mp4/T0062_A_temporal_0000.mp4,mp4/T0062_B_temporal_0000.mp4
+63,T0063,temporal,1,"single-dumbbell-raising # 0.0 # 2.5 # left arm # right arm
+upper-back-stretching # 2.5 # 4.85 # left arm # right arm
+deltoid-muscle-stretching # 4.85 # 7.36 # left arm # right arm
+single-leg-lateral-hopping # 7.36 # 9.71 # legs # spine
+spinal-stretching # 9.71 # 12.22 # head # left arm # right arm # spine
+alternate-knee-lifting # 12.22 # 14.57 # legs",mp4/T0063_A_temporal_0001.mp4,mp4/T0063_B_temporal_0001.mp4
+64,T0064,temporal,1,"single-dumbbell-raising # 0.0 # 2.5 # left arm # right arm
+upper-back-stretching # 2.5 # 4.85 # left arm # right arm
+deltoid-muscle-stretching # 4.85 # 7.36 # left arm # right arm
+single-leg-lateral-hopping # 7.36 # 9.71 # legs # spine
+spinal-stretching # 9.71 # 12.22 # head # left arm # right arm # spine
+alternate-knee-lifting # 12.22 # 14.57 # legs",mp4/T0064_A_temporal_0001.mp4,mp4/T0064_B_temporal_0001.mp4
+65,T0065,temporal,1,"single-dumbbell-raising # 0.0 # 2.5 # left arm # right arm
+upper-back-stretching # 2.5 # 4.85 # left arm # right arm
+deltoid-muscle-stretching # 4.85 # 7.36 # left arm # right arm
+single-leg-lateral-hopping # 7.36 # 9.71 # legs # spine
+spinal-stretching # 9.71 # 12.22 # head # left arm # right arm # spine
+alternate-knee-lifting # 12.22 # 14.57 # legs",mp4/T0065_A_temporal_0001.mp4,mp4/T0065_B_temporal_0001.mp4
+66,T0066,temporal,2,"standing-gastrocnemius-calf # 0.0 # 2.5 # head # left arm # legs # right arm # spine
+high-knees-running # 2.5 # 5.0 # legs
+left-stretching # 5.0 # 7.5 # head # left arm # right arm # spine
+arm-circling # 7.5 # 10.0 # left arm # right arm
+pinching-back # 10.0 # 12.5 # left arm # right arm
+overhead-stretching # 12.5 # 15.0 # left arm # right arm",mp4/T0066_A_temporal_0002.mp4,mp4/T0066_B_temporal_0002.mp4
+67,T0067,temporal,2,"standing-gastrocnemius-calf # 0.0 # 2.5 # head # left arm # legs # right arm # spine
+high-knees-running # 2.5 # 5.0 # legs
+left-stretching # 5.0 # 7.5 # head # left arm # right arm # spine
+arm-circling # 7.5 # 10.0 # left arm # right arm
+pinching-back # 10.0 # 12.5 # left arm # right arm
+overhead-stretching # 12.5 # 15.0 # left arm # right arm",mp4/T0067_A_temporal_0002.mp4,mp4/T0067_B_temporal_0002.mp4
+68,T0068,temporal,2,"standing-gastrocnemius-calf # 0.0 # 2.5 # head # left arm # legs # right arm # spine
+high-knees-running # 2.5 # 5.0 # legs
+left-stretching # 5.0 # 7.5 # head # left arm # right arm # spine
+arm-circling # 7.5 # 10.0 # left arm # right arm
+pinching-back # 10.0 # 12.5 # left arm # right arm
+overhead-stretching # 12.5 # 15.0 # left arm # right arm",mp4/T0068_A_temporal_0002.mp4,mp4/T0068_B_temporal_0002.mp4
+69,T0069,temporal,3,"marking-time-and-knee-lifting # 0.0 # 2.19 # legs
+standing-rotation # 2.19 # 4.58 # head # left arm # right arm # spine
+overhead-stretching # 4.58 # 6.77 # left arm # right arm
+knee-circling # 6.77 # 9.16 # legs # spine
+rotation-clapping # 9.16 # 11.35 # head # left arm # right arm # spine
+forward-lunging # 11.35 # 13.74 # legs # spine",mp4/T0069_A_temporal_0003.mp4,mp4/T0069_B_temporal_0003.mp4
+70,T0070,temporal,3,"marking-time-and-knee-lifting # 0.0 # 2.19 # legs
+standing-rotation # 2.19 # 4.58 # head # left arm # right arm # spine
+overhead-stretching # 4.58 # 6.77 # left arm # right arm
+knee-circling # 6.77 # 9.16 # legs # spine
+rotation-clapping # 9.16 # 11.35 # head # left arm # right arm # spine
+forward-lunging # 11.35 # 13.74 # legs # spine",mp4/T0070_A_temporal_0003.mp4,mp4/T0070_B_temporal_0003.mp4
+71,T0071,temporal,3,"marking-time-and-knee-lifting # 0.0 # 2.19 # legs
+standing-rotation # 2.19 # 4.58 # head # left arm # right arm # spine
+overhead-stretching # 4.58 # 6.77 # left arm # right arm
+knee-circling # 6.77 # 9.16 # legs # spine
+rotation-clapping # 9.16 # 11.35 # head # left arm # right arm # spine
+forward-lunging # 11.35 # 13.74 # legs # spine",mp4/T0071_A_temporal_0003.mp4,mp4/T0071_B_temporal_0003.mp4
+72,T0072,temporal,4,"punching-and-knee-lifting # 0.0 # 2.43 # left arm # legs # right arm
+high-knees-running # 2.43 # 4.93 # legs
+knee-circling # 4.93 # 7.36 # legs # spine
+arm-circling # 7.36 # 9.86 # left arm # right arm
+punching # 9.86 # 12.29 # left arm # right arm
+bent-over-twist # 12.29 # 14.79 # head # left arm # right arm # spine",mp4/T0072_A_temporal_0004.mp4,mp4/T0072_B_temporal_0004.mp4
+73,T0073,temporal,4,"punching-and-knee-lifting # 0.0 # 2.43 # left arm # legs # right arm
+high-knees-running # 2.43 # 4.93 # legs
+knee-circling # 4.93 # 7.36 # legs # spine
+arm-circling # 7.36 # 9.86 # left arm # right arm
+punching # 9.86 # 12.29 # left arm # right arm
+bent-over-twist # 12.29 # 14.79 # head # left arm # right arm # spine",mp4/T0073_A_temporal_0004.mp4,mp4/T0073_B_temporal_0004.mp4
+74,T0074,temporal,4,"punching-and-knee-lifting # 0.0 # 2.43 # left arm # legs # right arm
+high-knees-running # 2.43 # 4.93 # legs
+knee-circling # 4.93 # 7.36 # legs # spine
+arm-circling # 7.36 # 9.86 # left arm # right arm
+punching # 9.86 # 12.29 # left arm # right arm
+bent-over-twist # 12.29 # 14.79 # head # left arm # right arm # spine",mp4/T0074_A_temporal_0004.mp4,mp4/T0074_B_temporal_0004.mp4
+75,T0075,temporal,5,"knee-to-chest # 0.0 # 2.5 # legs # spine
+pinching-back # 2.5 # 5.0 # left arm # right arm
+standing-toe-touches # 5.0 # 7.5 # head # left arm # legs # right arm # spine
+dumbbell-side-bend # 7.5 # 10.0 # head # left arm # right arm # spine
+dumbbell-shrugging # 10.0 # 12.5 # left arm # right arm
+straight-forward-flexion # 12.5 # 15.0 # head # left arm # right arm # spine",mp4/T0075_A_temporal_0005.mp4,mp4/T0075_B_temporal_0005.mp4
+76,T0076,temporal,5,"knee-to-chest # 0.0 # 2.5 # legs # spine
+pinching-back # 2.5 # 5.0 # left arm # right arm
+standing-toe-touches # 5.0 # 7.5 # head # left arm # legs # right arm # spine
+dumbbell-side-bend # 7.5 # 10.0 # head # left arm # right arm # spine
+dumbbell-shrugging # 10.0 # 12.5 # left arm # right arm
+straight-forward-flexion # 12.5 # 15.0 # head # left arm # right arm # spine",mp4/T0076_A_temporal_0005.mp4,mp4/T0076_B_temporal_0005.mp4
+77,T0077,temporal,5,"knee-to-chest # 0.0 # 2.5 # legs # spine
+pinching-back # 2.5 # 5.0 # left arm # right arm
+standing-toe-touches # 5.0 # 7.5 # head # left arm # legs # right arm # spine
+dumbbell-side-bend # 7.5 # 10.0 # head # left arm # right arm # spine
+dumbbell-shrugging # 10.0 # 12.5 # left arm # right arm
+straight-forward-flexion # 12.5 # 15.0 # head # left arm # right arm # spine",mp4/T0077_A_temporal_0005.mp4,mp4/T0077_B_temporal_0005.mp4
+78,T0078,temporal,6,"spinal-stretching # 0.0 # 2.36 # head # left arm # right arm # spine
+standing-gastrocnemius-calf # 2.36 # 4.85 # head # left arm # legs # right arm # spine
+dumbbell-side-bend # 4.85 # 7.21 # head # left arm # right arm # spine
+standing-gastrocnemius-calf # 7.21 # 9.71 # head # left arm # legs # right arm # spine
+rope-skipping # 9.71 # 12.07 # head # left arm # legs # right arm # spine
+squatting # 12.07 # 14.57 # legs # spine",mp4/T0078_A_temporal_0006.mp4,mp4/T0078_B_temporal_0006.mp4
+79,T0079,temporal,6,"spinal-stretching # 0.0 # 2.36 # head # left arm # right arm # spine
+standing-gastrocnemius-calf # 2.36 # 4.85 # head # left arm # legs # right arm # spine
+dumbbell-side-bend # 4.85 # 7.21 # head # left arm # right arm # spine
+standing-gastrocnemius-calf # 7.21 # 9.71 # head # left arm # legs # right arm # spine
+rope-skipping # 9.71 # 12.07 # head # left arm # legs # right arm # spine
+squatting # 12.07 # 14.57 # legs # spine",mp4/T0079_A_temporal_0006.mp4,mp4/T0079_B_temporal_0006.mp4
+80,T0080,temporal,6,"spinal-stretching # 0.0 # 2.36 # head # left arm # right arm # spine
+standing-gastrocnemius-calf # 2.36 # 4.85 # head # left arm # legs # right arm # spine
+dumbbell-side-bend # 4.85 # 7.21 # head # left arm # right arm # spine
+standing-gastrocnemius-calf # 7.21 # 9.71 # head # left arm # legs # right arm # spine
+rope-skipping # 9.71 # 12.07 # head # left arm # legs # right arm # spine
+squatting # 12.07 # 14.57 # legs # spine",mp4/T0080_A_temporal_0006.mp4,mp4/T0080_B_temporal_0006.mp4
+81,T0081,temporal,7,"0007 elbow-circling # 0.0 # 2.35 # left arm # right arm
+high-knees-running # 2.35 # 4.83 # legs
+punching-and-knee-lifting # 4.83 # 7.18 # left arm # legs # right arm
+standing-rotation # 7.18 # 9.66 # head # left arm # right arm # spine
+bent-over-twist # 9.66 # 12.01 # head # left arm # right arm # spine
+dumbbell-one-arm-shoulder-pressing # 12.01 # 14.49 # left arm # right arm",mp4/T0081_A_temporal_0007.mp4,mp4/T0081_B_temporal_0007.mp4
+82,T0082,temporal,7,"0007 elbow-circling # 0.0 # 2.35 # left arm # right arm
+high-knees-running # 2.35 # 4.83 # legs
+punching-and-knee-lifting # 4.83 # 7.18 # left arm # legs # right arm
+standing-rotation # 7.18 # 9.66 # head # left arm # right arm # spine
+bent-over-twist # 9.66 # 12.01 # head # left arm # right arm # spine
+dumbbell-one-arm-shoulder-pressing # 12.01 # 14.49 # left arm # right arm",mp4/T0082_A_temporal_0007.mp4,mp4/T0082_B_temporal_0007.mp4
+83,T0083,temporal,7,"0007 elbow-circling # 0.0 # 2.35 # left arm # right arm
+high-knees-running # 2.35 # 4.83 # legs
+punching-and-knee-lifting # 4.83 # 7.18 # left arm # legs # right arm
+standing-rotation # 7.18 # 9.66 # head # left arm # right arm # spine
+bent-over-twist # 9.66 # 12.01 # head # left arm # right arm # spine
+dumbbell-one-arm-shoulder-pressing # 12.01 # 14.49 # left arm # right arm",mp4/T0083_A_temporal_0007.mp4,mp4/T0083_B_temporal_0007.mp4
+84,T0084,temporal,8,"straight-forward-flexion # 0.0 # 2.27 # head # left arm # right arm # spine
+arm-circling # 2.27 # 4.76 # left arm # right arm
+rope-skipping # 4.76 # 7.03 # head # left arm # legs # right arm # spine
+rope-skipping # 7.03 # 9.53 # head # left arm # legs # right arm # spine
+rotation-clapping # 9.53 # 11.8 # head # left arm # right arm # spine
+head-anticlockwise-circling # 11.8 # 14.3 # head",mp4/T0084_A_temporal_0008.mp4,mp4/T0084_B_temporal_0008.mp4
+85,T0085,temporal,8,"straight-forward-flexion # 0.0 # 2.27 # head # left arm # right arm # spine
+arm-circling # 2.27 # 4.76 # left arm # right arm
+rope-skipping # 4.76 # 7.03 # head # left arm # legs # right arm # spine
+rope-skipping # 7.03 # 9.53 # head # left arm # legs # right arm # spine
+rotation-clapping # 9.53 # 11.8 # head # left arm # right arm # spine
+head-anticlockwise-circling # 11.8 # 14.3 # head",mp4/T0085_A_temporal_0008.mp4,mp4/T0085_B_temporal_0008.mp4
+86,T0086,temporal,8,"straight-forward-flexion # 0.0 # 2.27 # head # left arm # right arm # spine
+arm-circling # 2.27 # 4.76 # left arm # right arm
+rope-skipping # 4.76 # 7.03 # head # left arm # legs # right arm # spine
+rope-skipping # 7.03 # 9.53 # head # left arm # legs # right arm # spine
+rotation-clapping # 9.53 # 11.8 # head # left arm # right arm # spine
+head-anticlockwise-circling # 11.8 # 14.3 # head",mp4/T0086_A_temporal_0008.mp4,mp4/T0086_B_temporal_0008.mp4
+87,T0087,temporal,9,"standing-gastrocnemius-calf # 0.0 # 2.5 # head # left arm # legs # right arm # spine
+left-lunging # 2.5 # 5.0 # legs # spine
+knee-to-chest # 5.0 # 7.5 # legs # spine
+forward-lunging # 7.5 # 10.0 # legs # spine
+dumbbell-side-bend # 10.0 # 12.5 # head # left arm # right arm # spine
+standing-gastrocnemius-calf # 12.5 # 15.0 # head # left arm # legs # right arm # spine",mp4/T0087_A_temporal_0009.mp4,mp4/T0087_B_temporal_0009.mp4
+88,T0088,temporal,9,"standing-gastrocnemius-calf # 0.0 # 2.5 # head # left arm # legs # right arm # spine
+left-lunging # 2.5 # 5.0 # legs # spine
+knee-to-chest # 5.0 # 7.5 # legs # spine
+forward-lunging # 7.5 # 10.0 # legs # spine
+dumbbell-side-bend # 10.0 # 12.5 # head # left arm # right arm # spine
+standing-gastrocnemius-calf # 12.5 # 15.0 # head # left arm # legs # right arm # spine",mp4/T0088_A_temporal_0009.mp4,mp4/T0088_B_temporal_0009.mp4
+89,T0089,temporal,9,"standing-gastrocnemius-calf # 0.0 # 2.5 # head # left arm # legs # right arm # spine
+left-lunging # 2.5 # 5.0 # legs # spine
+knee-to-chest # 5.0 # 7.5 # legs # spine
+forward-lunging # 7.5 # 10.0 # legs # spine
+dumbbell-side-bend # 10.0 # 12.5 # head # left arm # right arm # spine
+standing-gastrocnemius-calf # 12.5 # 15.0 # head # left arm # legs # right arm # spine",mp4/T0089_A_temporal_0009.mp4,mp4/T0089_B_temporal_0009.mp4
+90,T0090,temporal,10,"0010 left-kicking # 0.0 # 2.5 # legs
+rope-skipping # 2.5 # 5.0 # head # left arm # legs # right arm # spine
+jumping-jack # 5.0 # 7.5 # head # left arm # legs # right arm # spine
+pinching-back # 7.5 # 10.0 # left arm # right arm
+alternate-knee-lifting # 10.0 # 12.5 # legs
+standing-rotation # 12.5 # 15.0 # head # left arm # right arm # spine",mp4/T0090_A_temporal_0010.mp4,mp4/T0090_B_temporal_0010.mp4
+91,T0091,temporal,10,"0010 left-kicking # 0.0 # 2.5 # legs
+rope-skipping # 2.5 # 5.0 # head # left arm # legs # right arm # spine
+jumping-jack # 5.0 # 7.5 # head # left arm # legs # right arm # spine
+pinching-back # 7.5 # 10.0 # left arm # right arm
+alternate-knee-lifting # 10.0 # 12.5 # legs
+standing-rotation # 12.5 # 15.0 # head # left arm # right arm # spine",mp4/T0091_A_temporal_0010.mp4,mp4/T0091_B_temporal_0010.mp4
+92,T0092,temporal,10,"0010 left-kicking # 0.0 # 2.5 # legs
+rope-skipping # 2.5 # 5.0 # head # left arm # legs # right arm # spine
+jumping-jack # 5.0 # 7.5 # head # left arm # legs # right arm # spine
+pinching-back # 7.5 # 10.0 # left arm # right arm
+alternate-knee-lifting # 10.0 # 12.5 # legs
+standing-rotation # 12.5 # 15.0 # head # left arm # right arm # spine",mp4/T0092_A_temporal_0010.mp4,mp4/T0092_B_temporal_0010.mp4
+93,T0093,temporal,11,"left-lunging # 0.0 # 2.5 # legs # spine
+left-kicking # 2.5 # 5.0 # legs
+jumping-jack # 5.0 # 7.5 # head # left arm # legs # right arm # spine
+left-stretching # 7.5 # 10.0 # head # left arm # right arm # spine
+raising-hand-and-jumping # 10.0 # 12.5 # head # left arm # legs # right arm # spine
+raising-hand-and-jumping # 12.5 # 15.0 # head # left arm # legs # right arm # spine",mp4/T0093_A_temporal_0011.mp4,mp4/T0093_B_temporal_0011.mp4
+94,T0094,temporal,11,"left-lunging # 0.0 # 2.5 # legs # spine
+left-kicking # 2.5 # 5.0 # legs
+jumping-jack # 5.0 # 7.5 # head # left arm # legs # right arm # spine
+left-stretching # 7.5 # 10.0 # head # left arm # right arm # spine
+raising-hand-and-jumping # 10.0 # 12.5 # head # left arm # legs # right arm # spine
+raising-hand-and-jumping # 12.5 # 15.0 # head # left arm # legs # right arm # spine",mp4/T0094_A_temporal_0011.mp4,mp4/T0094_B_temporal_0011.mp4
+95,T0095,temporal,11,"left-lunging # 0.0 # 2.5 # legs # spine
+left-kicking # 2.5 # 5.0 # legs
+jumping-jack # 5.0 # 7.5 # head # left arm # legs # right arm # spine
+left-stretching # 7.5 # 10.0 # head # left arm # right arm # spine
+raising-hand-and-jumping # 10.0 # 12.5 # head # left arm # legs # right arm # spine
+raising-hand-and-jumping # 12.5 # 15.0 # head # left arm # legs # right arm # spine",mp4/T0095_A_temporal_0011.mp4,mp4/T0095_B_temporal_0011.mp4
+96,T0096,temporal,12,"alternate-knee-lifting # 0.0 # 2.5 # legs
+straight-forward-flexion # 2.5 # 4.93 # head # left arm # right arm # spine
+standing-rotation # 4.93 # 7.43 # head # left arm # right arm # spine
+rope-skipping # 7.43 # 9.86 # head # left arm # legs # right arm # spine
+elbow-circling # 9.86 # 12.36 # left arm # right arm
+squatting # 12.36 # 14.79 # legs # spine",mp4/T0096_A_temporal_0012.mp4,mp4/T0096_B_temporal_0012.mp4
+97,T0097,temporal,12,"alternate-knee-lifting # 0.0 # 2.5 # legs
+straight-forward-flexion # 2.5 # 4.93 # head # left arm # right arm # spine
+standing-rotation # 4.93 # 7.43 # head # left arm # right arm # spine
+rope-skipping # 7.43 # 9.86 # head # left arm # legs # right arm # spine
+elbow-circling # 9.86 # 12.36 # left arm # right arm
+squatting # 12.36 # 14.79 # legs # spine",mp4/T0097_A_temporal_0012.mp4,mp4/T0097_B_temporal_0012.mp4
+98,T0098,temporal,12,"alternate-knee-lifting # 0.0 # 2.5 # legs
+straight-forward-flexion # 2.5 # 4.93 # head # left arm # right arm # spine
+standing-rotation # 4.93 # 7.43 # head # left arm # right arm # spine
+rope-skipping # 7.43 # 9.86 # head # left arm # legs # right arm # spine
+elbow-circling # 9.86 # 12.36 # left arm # right arm
+squatting # 12.36 # 14.79 # legs # spine",mp4/T0098_A_temporal_0012.mp4,mp4/T0098_B_temporal_0012.mp4
+99,T0099,temporal,13,"punching-and-knee-lifting # 0.0 # 2.5 # left arm # legs # right arm
+jumping-jack # 2.5 # 4.29 # head # left arm # legs # right arm # spine
+knee-circling # 4.29 # 6.79 # legs # spine
+alternate-knee-lifting # 6.79 # 8.58 # legs
+rotation-clapping # 8.58 # 11.08 # head # left arm # right arm # spine
+forward-lunging # 11.08 # 12.87 # legs # spine",mp4/T0099_A_temporal_0013.mp4,mp4/T0099_B_temporal_0013.mp4
+100,T0100,temporal,13,"punching-and-knee-lifting # 0.0 # 2.5 # left arm # legs # right arm
+jumping-jack # 2.5 # 4.29 # head # left arm # legs # right arm # spine
+knee-circling # 4.29 # 6.79 # legs # spine
+alternate-knee-lifting # 6.79 # 8.58 # legs
+rotation-clapping # 8.58 # 11.08 # head # left arm # right arm # spine
+forward-lunging # 11.08 # 12.87 # legs # spine",mp4/T0100_A_temporal_0013.mp4,mp4/T0100_B_temporal_0013.mp4
+101,T0101,temporal,13,"punching-and-knee-lifting # 0.0 # 2.5 # left arm # legs # right arm
+jumping-jack # 2.5 # 4.29 # head # left arm # legs # right arm # spine
+knee-circling # 4.29 # 6.79 # legs # spine
+alternate-knee-lifting # 6.79 # 8.58 # legs
+rotation-clapping # 8.58 # 11.08 # head # left arm # right arm # spine
+forward-lunging # 11.08 # 12.87 # legs # spine",mp4/T0101_A_temporal_0013.mp4,mp4/T0101_B_temporal_0013.mp4
+102,T0102,temporal,14,"knee-to-chest # 0.0 # 2.37 # legs # spine
+wrist-circling # 2.37 # 4.87 # left arm # right arm
+standing-opposite-elbow-to-knee-crunch # 4.87 # 7.24 # head # left arm # legs # right arm # spine
+standing-opposite-elbow-to-knee-crunch # 7.24 # 9.74 # head # left arm # legs # right arm # spine
+jumping-jack # 9.74 # 12.11 # head # left arm # legs # right arm # spine
+squatting # 12.11 # 14.61 # legs # spine",mp4/T0102_A_temporal_0014.mp4,mp4/T0102_B_temporal_0014.mp4
+103,T0103,temporal,14,"knee-to-chest # 0.0 # 2.37 # legs # spine
+wrist-circling # 2.37 # 4.87 # left arm # right arm
+standing-opposite-elbow-to-knee-crunch # 4.87 # 7.24 # head # left arm # legs # right arm # spine
+standing-opposite-elbow-to-knee-crunch # 7.24 # 9.74 # head # left arm # legs # right arm # spine
+jumping-jack # 9.74 # 12.11 # head # left arm # legs # right arm # spine
+squatting # 12.11 # 14.61 # legs # spine",mp4/T0103_A_temporal_0014.mp4,mp4/T0103_B_temporal_0014.mp4
+104,T0104,temporal,14,"knee-to-chest # 0.0 # 2.37 # legs # spine
+wrist-circling # 2.37 # 4.87 # left arm # right arm
+standing-opposite-elbow-to-knee-crunch # 4.87 # 7.24 # head # left arm # legs # right arm # spine
+standing-opposite-elbow-to-knee-crunch # 7.24 # 9.74 # head # left arm # legs # right arm # spine
+jumping-jack # 9.74 # 12.11 # head # left arm # legs # right arm # spine
+squatting # 12.11 # 14.61 # legs # spine",mp4/T0104_A_temporal_0014.mp4,mp4/T0104_B_temporal_0014.mp4
+105,T0105,temporal,15,"spinal-stretching # 0.0 # 2.39 # head # left arm # right arm # spine
+front-raising # 2.39 # 4.89 # left arm # right arm
+head-anticlockwise-circling # 4.89 # 7.28 # head
+standing-gastrocnemius-calf # 7.28 # 9.78 # head # left arm # legs # right arm # spine
+alternate-knee-lifting # 9.78 # 12.17 # legs
+left-kicking # 12.17 # 14.67 # legs",mp4/T0105_A_temporal_0015.mp4,mp4/T0105_B_temporal_0015.mp4
+106,T0106,temporal,15,"spinal-stretching # 0.0 # 2.39 # head # left arm # right arm # spine
+front-raising # 2.39 # 4.89 # left arm # right arm
+head-anticlockwise-circling # 4.89 # 7.28 # head
+standing-gastrocnemius-calf # 7.28 # 9.78 # head # left arm # legs # right arm # spine
+alternate-knee-lifting # 9.78 # 12.17 # legs
+left-kicking # 12.17 # 14.67 # legs",mp4/T0106_A_temporal_0015.mp4,mp4/T0106_B_temporal_0015.mp4
+107,T0107,temporal,15,"spinal-stretching # 0.0 # 2.39 # head # left arm # right arm # spine
+front-raising # 2.39 # 4.89 # left arm # right arm
+head-anticlockwise-circling # 4.89 # 7.28 # head
+standing-gastrocnemius-calf # 7.28 # 9.78 # head # left arm # legs # right arm # spine
+alternate-knee-lifting # 9.78 # 12.17 # legs
+left-kicking # 12.17 # 14.67 # legs",mp4/T0107_A_temporal_0015.mp4,mp4/T0107_B_temporal_0015.mp4
+108,T0108,temporal,16,"0016 single-leg-lateral-hopping # 0.0 # 2.5 # legs # spine
+dumbbell-side-bend # 2.5 # 4.9 # head # left arm # right arm # spine
+arm-circling # 4.9 # 7.4 # left arm # right arm
+dumbbell-shrugging # 7.4 # 9.8 # left arm # right arm
+rope-skipping # 9.8 # 12.3 # head # left arm # legs # right arm # spine
+single-leg-lateral-hopping # 12.3 # 14.7 # legs # spine",mp4/T0108_A_temporal_0016.mp4,mp4/T0108_B_temporal_0016.mp4
+109,T0109,temporal,16,"0016 single-leg-lateral-hopping # 0.0 # 2.5 # legs # spine
+dumbbell-side-bend # 2.5 # 4.9 # head # left arm # right arm # spine
+arm-circling # 4.9 # 7.4 # left arm # right arm
+dumbbell-shrugging # 7.4 # 9.8 # left arm # right arm
+rope-skipping # 9.8 # 12.3 # head # left arm # legs # right arm # spine
+single-leg-lateral-hopping # 12.3 # 14.7 # legs # spine",mp4/T0109_A_temporal_0016.mp4,mp4/T0109_B_temporal_0016.mp4
+110,T0110,temporal,16,"0016 single-leg-lateral-hopping # 0.0 # 2.5 # legs # spine
+dumbbell-side-bend # 2.5 # 4.9 # head # left arm # right arm # spine
+arm-circling # 4.9 # 7.4 # left arm # right arm
+dumbbell-shrugging # 7.4 # 9.8 # left arm # right arm
+rope-skipping # 9.8 # 12.3 # head # left arm # legs # right arm # spine
+single-leg-lateral-hopping # 12.3 # 14.7 # legs # spine",mp4/T0110_A_temporal_0016.mp4,mp4/T0110_B_temporal_0016.mp4
+111,T0111,temporal,17,"knee-to-chest # 0.0 # 2.18 # legs # spine
+pulling-chest-expanders # 2.18 # 4.68 # left arm # right arm
+pulling-chest-expanders # 4.68 # 6.86 # left arm # right arm
+punching # 6.86 # 9.36 # left arm # right arm
+raising-hand-and-jumping # 9.36 # 11.54 # head # left arm # legs # right arm # spine
+dumbbell-shrugging # 11.54 # 14.04 # left arm # right arm",mp4/T0111_A_temporal_0017.mp4,mp4/T0111_B_temporal_0017.mp4
+112,T0112,temporal,17,"knee-to-chest # 0.0 # 2.18 # legs # spine
+pulling-chest-expanders # 2.18 # 4.68 # left arm # right arm
+pulling-chest-expanders # 4.68 # 6.86 # left arm # right arm
+punching # 6.86 # 9.36 # left arm # right arm
+raising-hand-and-jumping # 9.36 # 11.54 # head # left arm # legs # right arm # spine
+dumbbell-shrugging # 11.54 # 14.04 # left arm # right arm",mp4/T0112_A_temporal_0017.mp4,mp4/T0112_B_temporal_0017.mp4
+113,T0113,temporal,17,"knee-to-chest # 0.0 # 2.18 # legs # spine
+pulling-chest-expanders # 2.18 # 4.68 # left arm # right arm
+pulling-chest-expanders # 4.68 # 6.86 # left arm # right arm
+punching # 6.86 # 9.36 # left arm # right arm
+raising-hand-and-jumping # 9.36 # 11.54 # head # left arm # legs # right arm # spine
+dumbbell-shrugging # 11.54 # 14.04 # left arm # right arm",mp4/T0113_A_temporal_0017.mp4,mp4/T0113_B_temporal_0017.mp4
+114,T0114,temporal,18,"knee-to-chest # 0.0 # 2.24 # legs # spine
+dumbbell-side-bend # 2.24 # 4.67 # head # left arm # right arm # spine
+rope-skipping # 4.67 # 6.91 # head # left arm # legs # right arm # spine
+dumbbell-one-arm-shoulder-pressing # 6.91 # 9.34 # left arm # right arm
+rotation-clapping # 9.34 # 11.58 # head # left arm # right arm # spine
+raising-hand-and-jumping # 11.58 # 14.01 # head # left arm # legs # right arm # spine",mp4/T0114_A_temporal_0018.mp4,mp4/T0114_B_temporal_0018.mp4
+115,T0115,temporal,18,"knee-to-chest # 0.0 # 2.24 # legs # spine
+dumbbell-side-bend # 2.24 # 4.67 # head # left arm # right arm # spine
+rope-skipping # 4.67 # 6.91 # head # left arm # legs # right arm # spine
+dumbbell-one-arm-shoulder-pressing # 6.91 # 9.34 # left arm # right arm
+rotation-clapping # 9.34 # 11.58 # head # left arm # right arm # spine
+raising-hand-and-jumping # 11.58 # 14.01 # head # left arm # legs # right arm # spine",mp4/T0115_A_temporal_0018.mp4,mp4/T0115_B_temporal_0018.mp4
+116,T0116,temporal,18,"knee-to-chest # 0.0 # 2.24 # legs # spine
+dumbbell-side-bend # 2.24 # 4.67 # head # left arm # right arm # spine
+rope-skipping # 4.67 # 6.91 # head # left arm # legs # right arm # spine
+dumbbell-one-arm-shoulder-pressing # 6.91 # 9.34 # left arm # right arm
+rotation-clapping # 9.34 # 11.58 # head # left arm # right arm # spine
+raising-hand-and-jumping # 11.58 # 14.01 # head # left arm # legs # right arm # spine",mp4/T0116_A_temporal_0018.mp4,mp4/T0116_B_temporal_0018.mp4
+117,T0117,temporal,19,"jumping-jack # 0.0 # 2.14 # head # left arm # legs # right arm # spine
+left-lunging # 2.14 # 4.64 # legs # spine
+marking-time-and-knee-lifting # 4.64 # 6.78 # legs
+squatting # 6.78 # 9.28 # legs # spine
+standing-toe-touches # 9.28 # 11.42 # head # left arm # legs # right arm # spine
+pinching-back # 11.42 # 13.92 # left arm # right arm",mp4/T0117_A_temporal_0019.mp4,mp4/T0117_B_temporal_0019.mp4
+118,T0118,temporal,19,"jumping-jack # 0.0 # 2.14 # head # left arm # legs # right arm # spine
+left-lunging # 2.14 # 4.64 # legs # spine
+marking-time-and-knee-lifting # 4.64 # 6.78 # legs
+squatting # 6.78 # 9.28 # legs # spine
+standing-toe-touches # 9.28 # 11.42 # head # left arm # legs # right arm # spine
+pinching-back # 11.42 # 13.92 # left arm # right arm",mp4/T0118_A_temporal_0019.mp4,mp4/T0118_B_temporal_0019.mp4
+119,T0119,temporal,19,"jumping-jack # 0.0 # 2.14 # head # left arm # legs # right arm # spine
+left-lunging # 2.14 # 4.64 # legs # spine
+marking-time-and-knee-lifting # 4.64 # 6.78 # legs
+squatting # 6.78 # 9.28 # legs # spine
+standing-toe-touches # 9.28 # 11.42 # head # left arm # legs # right arm # spine
+pinching-back # 11.42 # 13.92 # left arm # right arm",mp4/T0119_A_temporal_0019.mp4,mp4/T0119_B_temporal_0019.mp4
